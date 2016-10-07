@@ -58,6 +58,10 @@ If you are planning to use Angular2, then all the required files will be install
 
 Ref: https://angular.io/docs/ts/latest/quickstart.html
 
+#### IDEs
+Use Visual Studio Code IDE for TypeScript, JavaScript, Angular2(Froent-end framework), and CSS. Use STS or Eclipse for java files.
+
+Ref: https://code.visualstudio.com
 
 #### Tested OS: MacOS
 #### Compatible OS: MacOS, Linux, and Windows 
