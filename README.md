@@ -52,6 +52,12 @@ grunt
 
 8) Running localhost:8080 on browser will give you a template website. 
 
+##### Angular2 
+
+If you are planning to use Angular2, then all the required files will be installed as part of above steps. Now, you need to follow instruction metioned in below site.
+
+Ref: https://angular.io/docs/ts/latest/quickstart.html
+
 
 #### Tested OS: MacOS
 #### Compatible OS: MacOS, Linux, and Windows 
