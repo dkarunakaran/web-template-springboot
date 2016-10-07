@@ -58,7 +58,7 @@ If you are planning to use Angular2, then all the required files will be install
 
 Ref: https://angular.io/docs/ts/latest/quickstart.html
 
-If you dont want to use Angualr2, then remove the angular reference from package.json and delete node_modules, systemjs.config.js, tsconfig.json, and typings.json
+If you dont want to use Angualr2, then remove the angular reference from package.json and delete node_modules, systemjs.config.js, tsconfig.json, and typings.json and Run npm install again.
 
 #### IDEs
 Use Visual Studio Code IDE for TypeScript, JavaScript, Angular2(Froent-end framework), and CSS. Use STS or Eclipse for java files.
