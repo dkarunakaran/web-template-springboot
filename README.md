@@ -60,6 +60,12 @@ Ref: https://angular.io/docs/ts/latest/quickstart.html
 
 If you dont want to use Angualr2, then remove the angular reference from package.json and delete node_modules, systemjs.config.js, tsconfig.json, and typings.json and Run npm install again.
 
+#### Freemaker and Spring boot  
+
+The below url explains how to add Freemaker to Spring boot and create a template.
+
+Ref: https://richardbarabe.wordpress.com/2009/03/19/freemarker-a-brief-example
+
 #### IDEs
 Use Visual Studio Code IDE for TypeScript, JavaScript, Angular2(Froent-end framework), and CSS. Use STS or Eclipse for java files.
 
