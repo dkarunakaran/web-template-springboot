@@ -30,10 +30,8 @@ This contains standard libraries for building a site.
 
 * Import the spring boot project to IDE. Gradle is the package manger for java which will ensure all the dependencies are installed once you import the project.
 
-* Install Node.js globally if it is not yet installed
-```
-  Ref: https://nodejs.org/en/download/package-manager/#osx
-```
+* Install Node.js globally if it is not yet installed. You can use the reference link mentioned in NodeJS section to see how it can be done.
+
 * Install grunt globally by running below command
 ```
 npm install -g grunt-cli
@@ -51,6 +49,12 @@ grunt
 * Run the project using spring bootapp  
 
 * Running localhost:8080 on browser will give you a template website. 
+
+#### NodeJS
+
+How to install NodeJS is explained in below URL.
+
+Ref: https://nodejs.org/en/download/package-manager/#osx
 
 #### Angular2 
 
