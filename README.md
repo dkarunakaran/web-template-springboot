@@ -66,6 +66,14 @@ The below url explains how to add Freemaker to Spring boot and create a template
 
 Ref: https://richardbarabe.wordpress.com/2009/03/19/freemarker-a-brief-example
 
+#### Grunt
+
+The below links describes about how can we use Grunt
+
+Ref: http://ericnish.io/blog/compile-less-files-with-grunt
+
+Ref: https://www.sitepoint.com/5-grunt-tasks-improve-performance-website
+
 #### IDEs
 Use Visual Studio Code IDE for TypeScript, JavaScript, Angular2(Froent-end framework), and CSS. Use STS or Eclipse for java files.
 
